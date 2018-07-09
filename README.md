@@ -10,5 +10,7 @@ These are short Workflows made to help [Alfred Forum](https://www.alfredforum.co
 
 If you’re looking for my maintained Workflows shared to the community as a whole, you’ll find them in [another repository](https://github.com/vitorgalvao/alfred-workflows/).
 
-### Workflows
+## Workflows
 
+* ifelseexample: [download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/ifelseexample.alfredworkflow) | [forum thread](https://www.alfredforum.com/topic/11655-if-no-filter-matches-do-this-else/?tab=comments)
+* List Wrap: [download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/List%20Wrap.alfredworkflow) | [forum thread](https://www.alfredforum.com/topic/11662-wrap-plain-text-into-html-tags-unmarked-and-marked-list/)
