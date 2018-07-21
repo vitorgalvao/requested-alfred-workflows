@@ -14,3 +14,4 @@ If you’re looking for my maintained Workflows shared to the community as a who
 
 * ifelseexample: [download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/ifelseexample.alfredworkflow) | [forum thread](https://www.alfredforum.com/topic/11655-if-no-filter-matches-do-this-else/?tab=comments)
 * List Wrap: [download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/List%20Wrap.alfredworkflow) | [forum thread](https://www.alfredforum.com/topic/11662-wrap-plain-text-into-html-tags-unmarked-and-marked-list/)
+* Search Magnusli: [download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/SearchMagnusli.alfredworkflow) | [forum thread](https://www.alfredforum.com/topic/11701-newbie-web-search-without-http-links/)
