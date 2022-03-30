@@ -26,6 +26,7 @@ If you’re looking for my maintained Workflows shared to the community as a who
 | Dropshelf Send | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Dropshelf%20Send.alfredworkflow) | [View](https://www.alfredforum.com/topic/5051-send-to-dropshelf/) |
 | Duplicate Path | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Duplicate%20Path.alfredworkflow) | [View](https://www.alfredforum.com/topic/16114-workflow-to-duplicate-a-file/) |
 | Edit Hosts | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Edit%20Hosts.alfredworkflow) | [View](https://www.alfredforum.com/topic/12292-modify-host-files/) |
+| Eject and Trash Disk Images | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Eject%20and%20Trash%20Disk%20Images.alfredworkflow) | [View](https://www.alfredforum.com/topic/9684-workflow-to-eject-disk-image-and-trash-dmg-after-software-install/) |
 | Fake Spot | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Fake%20Spot.alfredworkflow) | [View](https://www.alfredforum.com/topic/12344-fakespot-script/) |
 | Fake Typing Text | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Fake%20Typing%20Text.alfredworkflow) | [View](https://www.alfredforum.com/topic/17984-pasteinsert-textsnippets-without-using-the-clipboard-in-remote-desktop-rdp/) |
 | Go To Folder | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Go%20To%20Folder.alfredworkflow) | [View](https://www.alfredforum.com/topic/17978-set-a-hotkey-to-launch-a-specific-folder-using-finders-go-to-folder-command/) |
@@ -76,3 +77,4 @@ If you’re looking for my maintained Workflows shared to the community as a who
 | Timed Shutdown | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Timed%20Shutdown.alfredworkflow) | [View](https://www.alfredforum.com/topic/14440-schedule-shutdown/) |
 | Word Randomiser | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Word%20Randomiser.alfredworkflow) | [View](https://www.alfredforum.com/topic/17484-word-randomizerscrambler-feature/) |
 <!-- END WORKFLOWS TABLE -->
+
