@@ -77,4 +77,3 @@ If you’re looking for my maintained Workflows shared to the community as a who
 | Timed Shutdown | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Timed%20Shutdown.alfredworkflow) | [View](https://www.alfredforum.com/topic/14440-schedule-shutdown/) |
 | Word Randomiser | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Word%20Randomiser.alfredworkflow) | [View](https://www.alfredforum.com/topic/17484-word-randomizerscrambler-feature/) |
 <!-- END WORKFLOWS TABLE -->
-
