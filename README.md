@@ -80,6 +80,7 @@ If you’re looking for my maintained Workflows shared to the community as a who
 | Split Queries | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Split%20Queries.alfredworkflow) | [View](https://www.alfredforum.com/topic/17705-servicenow-queries/) |
 | Steam No Chat | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Steam%20No%20Chat.alfredworkflow) | [View](https://www.alfredforum.com/topic/11762-best-way-to-launch-application-with-params-from-alfred/) |
 | Timed Shutdown | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Timed%20Shutdown.alfredworkflow) | [View](https://www.alfredforum.com/topic/14440-schedule-shutdown/) |
+| Versions | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Versions.alfredworkflow) | [View](https://www.alfredforum.com/topic/18737-tylereichs-versions/) |
 | View Source in Chrome | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/View%20Source%20in%20Chrome.alfredworkflow) | [View](https://www.alfredforum.com/topic/18649-view-source-of-any-url-in-chrome/) |
 | Word Randomiser | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Word%20Randomiser.alfredworkflow) | [View](https://www.alfredforum.com/topic/17484-word-randomizerscrambler-feature/) |
 <!-- END WORKFLOWS TABLE -->
