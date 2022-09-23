@@ -87,5 +87,6 @@ If you’re looking for my maintained Workflows shared to the community as a who
 | Versions | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Versions.alfredworkflow) | [View](https://www.alfredforum.com/topic/18737-tylereichs-versions/) |
 | View Source in Chrome | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/View%20Source%20in%20Chrome.alfredworkflow) | [View](https://www.alfredforum.com/topic/18649-view-source-of-any-url-in-chrome/) |
 | Web Search with Preview | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Web%20Search%20with%20Preview.alfredworkflow) | [View](https://www.alfredforum.com/topic/18926-automatic-web-results-when-typing/) |
+| Word Count | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Word%20Count.alfredworkflow) | [View](https://www.alfredforum.com/topic/19001-how-to-check-word-count-of-a-blog/) |
 | Word Randomiser | [Download](https://raw.githubusercontent.com/vitorgalvao/requested-alfred-workflows/master/Workflows/Word%20Randomiser.alfredworkflow) | [View](https://www.alfredforum.com/topic/17484-word-randomizerscrambler-feature/) |
 <!-- END WORKFLOWS TABLE -->
